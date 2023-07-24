@@ -529,7 +529,7 @@ class _VirtualCardState extends State<VirtualCard> {
                             Text(
                               "• • • •",
                               style: TextStyle(
-                                  color: Colors.white,
+                                  color: Colors.black,
                                   fontSize: 28,
                                   fontWeight: FontWeight.bold),
                             ),
@@ -537,7 +537,7 @@ class _VirtualCardState extends State<VirtualCard> {
                             Text(
                               "• • • •",
                               style: TextStyle(
-                                  color: Colors.white,
+                                  color: Colors.black,
                                   fontSize: 28,
                                   fontWeight: FontWeight.bold),
                             ),
@@ -545,7 +545,7 @@ class _VirtualCardState extends State<VirtualCard> {
                             Text(
                               "• • • •",
                               style: TextStyle(
-                                  color: Colors.white,
+                                  color: Colors.black,
                                   fontSize: 28,
                                   fontWeight: FontWeight.bold),
                             ),
@@ -553,7 +553,7 @@ class _VirtualCardState extends State<VirtualCard> {
                             Text(
                               "1234",
                               style: TextStyle(
-                                  color: Colors.white,
+                                  color: Colors.black,
                                   fontSize: 28,
                                   fontWeight: FontWeight.bold),
                             ),
@@ -561,14 +561,14 @@ class _VirtualCardState extends State<VirtualCard> {
                             Text(
                               "Exp Date     * * / * *",
                               style: TextStyle(
-                                color: Colors.white,
+                                color: Colors.black,
                               ),
                             ),
                             SizedBox(height: 20),
                             Text(
                               "CVC     * * *",
                               style: TextStyle(
-                                color: Colors.white,
+                                color: Colors.black,
                               ),
                             ),
                           ],
